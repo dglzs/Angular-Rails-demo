@@ -1,0 +1,18 @@
+{
+  "name": "Angular-Rails-demo",
+  "homepage": "https://github.com/dglzs/Angular-Rails-demo",
+  "authors": [
+    "dglzs <dglzs@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
